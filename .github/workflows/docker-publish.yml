@@ -24,7 +24,7 @@ env:
 
 jobs:
   intergration:
-    uses: mmootz/03_05_integration/.github/workflows/python-app.yml@main
+    uses: mmootz/03_05_intergration/.github/workflows/python-app.yml@main
     permissions:
       contents: read
     
